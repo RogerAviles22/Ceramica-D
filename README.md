@@ -26,4 +26,6 @@ ReactJS maneja cada parte de sus páginas en elementos más pequeños llamados c
 Para crear componentes, sus nombres deben empezar con MAY.
 
 ### Referencias
--[Instalación React](https://www.youtube.com/watch?v=vAvCcjSAGDY)
+- [Instalación React](https://www.youtube.com/watch?v=vAvCcjSAGDY)
+- [Href WhatsApp](https://elcssar.com/html/enlace-href-whatsapp)
+- [Galeria Horizontal](https://medium.com/@rexosariemen/implementing-horizontal-scroll-buttons-in-react-61e0bb431be)

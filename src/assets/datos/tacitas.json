@@ -1,11 +1,32 @@
-[
+[   
     {
-    "id":1,
-    "title":"Azul linearvertical",
-    "precio":12
-    },{
-    "id":2,
-    "title":"Naranja linear vertical",
-    "precio":12
+        "id": 0,
+        "img": "gato.jpeg",
+        "title": "Gatito",
+        "precio": 10
+    },
+    {
+        "id": 1,
+        "img": "express.jpeg",
+        "title": "Tacita Expresso",
+        "precio": 6
+    },
+    {
+        "id": 2,
+        "img": "flores.jpeg",
+        "title": "Taza Flores",
+        "precio": 6.50
+    },
+    {
+        "id": 3,
+        "img": "muneica.jpeg",
+        "title": "Tacita Muñeca",
+        "precio": 7
+    },
+    {
+        "id": 4,
+        "img": "jarron.jpeg",
+        "title": "Jarrón/ Jarra",
+        "precio": 7
     }
 ]

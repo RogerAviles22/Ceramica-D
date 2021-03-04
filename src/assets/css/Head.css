@@ -5,10 +5,56 @@
 
 h1{
     font-family: Heart_Attack;
-    font-size: 4rem;
+    font-size: 5vw;
+}
+
+div.navegador a{
+    color: #140C00;
+    transition: 0.3s;
+}
+
+div.navegador a:hover{
+    color: #F5F5F5;
+}
+
+img.Logo{
+    max-width: 300px;
+}
+
+img.welcome{
+    border-radius: 50%;
+    max-width: 300px;
 }
 
 p{
     font-size: 25px;
 }
+
+/*DETALLE*/
+div.detalle .card-header{
+    background-color: #140C00;    
+}
+
+div.detalle .card-header i{
+    color: #F5F5F5;    
+    font-size: 4vw;
+    transition: 0.4s;
+}
+
+div.detalle .card{
+    transition: 0.4s;
+}
+
+
+
+
+div.detalle .card:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+div.detalle .card:hover i{
+    color: #2EC4B6;    
+}
+
 

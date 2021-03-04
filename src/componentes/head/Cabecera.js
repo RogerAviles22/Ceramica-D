@@ -8,7 +8,7 @@ class Cabecera extends Component {
         return (
             <div className="text-center Head">
                 <img className="img-fluid Logo" src={logo} alt="as" />
-                <h1>Doménica Cerámica</h1>
+                <h1>Doménica Rivadeneyra Cerámica</h1>
             </div>
         );
     }

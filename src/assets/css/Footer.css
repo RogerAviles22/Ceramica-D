@@ -1,3 +1,39 @@
-div{
-    background-color: #FF9F1C;
+footer{
+    background-color: #140C00;
+    
+}
+
+footer p, footer a{
+    color: #F5F5F5;
+    font-size: 2vw;
+}
+
+footer h1{
+    color: #F5F5F5;
+}
+
+footer i{
+    color: #F5F5F5;
+}
+
+footer a{
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+footer a:hover{
+    color: #2EC4B6;
+}
+
+.whatsappLink.mobile{
+    display: none;
+}
+
+@media only-screen and (max-width:1024px){
+    .whatsappLink.desktop {
+      display: none;
+    }
+    .whatsappLink.mobile{
+      display: inline;
+    }
 }

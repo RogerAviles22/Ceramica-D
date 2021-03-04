@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "img": "muneica2.jpeg",
+        "title": "Muñeca",
+        "precio": 12.50
+    },{
+        "id": 2,
+        "img": "rectangle.jpeg",
+        "title": "Rectángulo Abstracto",
+        "precio": 7.50
+    },{
+        "id": 3,
+        "img": "castle.jpeg",
+        "title": "Castillo",
+        "precio": 14.00
+    },{
+        "id": 4,
+        "img": "minin.jpeg",
+        "title": "Minis Nido",
+        "precio": 3.50
+    },{
+        "id": 5,
+        "img": "minin.jpeg",
+        "title": "Minis Kawaii",
+        "precio": 3.50
+    }
+]
