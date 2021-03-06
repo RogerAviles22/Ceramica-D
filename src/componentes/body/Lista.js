@@ -4,7 +4,7 @@ import Carta from './Carta';
 function Lista(props) {
     return(
         <div className="container-fluid">
-            <div className="list-card row gx-3 gy-4">
+            <div className="list-card row gx-3 gy-4 d-flex justify-content-evenly">
             {
                 props.items.map(item =>
                     <Carta 

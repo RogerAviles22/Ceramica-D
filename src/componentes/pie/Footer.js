@@ -15,11 +15,11 @@ class Footer extends Component {
                             <i className="bi bi-whatsapp"></i> +593 958 706 562
                         </a>
                         <a href="mailto:domenicarivadeneyra@gmail.com"><i className="bi bi-envelope"></i> Gmail</a>
-                        <a href="https://instagram.com/domenicarivadeneyra.ceramica?igshid=1jjcy1ejfx0ri" className="text-wrap"><i className="bi bi-instagram"></i> @domenicarivadeneyra.ceramica</a>
+                        <a href="https://www.instagram.com/ceramicasdomenica.ec/" className="text-wrap"><i className="bi bi-instagram"></i> @ceramicasdomenica.ec</a>
                     </div>
                 </div>
                 <div className="col-lg-4 col-4 my-2">
-                    <p><i className="bi bi-calendar"></i> Lunes - Sábado.</p>
+                    <p><i className="bi bi-calendar"></i> Lunes - Sábado</p>
                     <p><i className="bi bi-clock"></i> 10am - 21pm</p>
                 </div>
                 <p className="text-center m-0 py-4 final fw-bold">¡ Hecho con mucho cariño y amor ! ~ 2021</p>

@@ -28,4 +28,5 @@ Para crear componentes, sus nombres deben empezar con MAY.
 ### Referencias
 - [Instalación React](https://www.youtube.com/watch?v=vAvCcjSAGDY)
 - [Href WhatsApp](https://elcssar.com/html/enlace-href-whatsapp)
+- [Animated](https://animate.style/)
 - [Galeria Horizontal](https://medium.com/@rexosariemen/implementing-horizontal-scroll-buttons-in-react-61e0bb431be)

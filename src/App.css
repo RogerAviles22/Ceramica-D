@@ -1,3 +1,13 @@
+@font-face {
+    font-family: Heart_Attack;
+    src: url('assets/fonts/Heart_Attack.ttf');
+}
+
+h1{
+    font-family: Heart_Attack;
+    font-size: 5vw;
+}
+
 .Inicio{
     background-color: #FF9F1C;
 }

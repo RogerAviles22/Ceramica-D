@@ -11,7 +11,7 @@ class Ceramica extends Component {
             {
                 id: 0,
                 img: "gato.png",
-                title: "Gatito",
+                title: "Gatito Personalizado",
                 precio: 10.00
             },
             {
@@ -53,12 +53,12 @@ class Ceramica extends Component {
             },{
                 "id": 6,
                 "img": "rectangle.png",
-                "title": "Rectángulo Abstracto",
+                "title": "Rectángulo #1",
                 "precio": 7.50
             },{
                 "id": 7,
                 img: "rectangle2.png",
-                title: "Rectángulo Abstracto 2",
+                title: "Rectángulo #2",
                 precio: 7.50
             },{
                 "id": 9,
@@ -71,19 +71,29 @@ class Ceramica extends Component {
                 "title": "Minis Kawaii",
                 "precio": 3.50
             }
+        ],
+        platos:[
+            {
+                "id": 11,
+                "img": "plato.png",
+                "title": "Tendido",
+                "precio": 5.0
+            }
         ]
         }
       }
 
     render() {
         return (
-            <section className="mt-3">
+            <section className="ceramica mt-3">
             <h1 className="text-center" id="ceramica">Cerámica</h1>
-            <hr/>
-            <h3 className="mb-3">Tacitas <i className="bi bi-cup-fill"></i> </h3>
-                <Lista items={this.state.tazas}/>
-            <h3 className=" mb-3">Macetas <i className="bi bi-archive-fill"></i> </h3>
+            <hr/>            
+            <h3 className="ms-2 my-3">Macetas <i className="bi bi-archive-fill"></i> </h3>
                 <Lista items={this.state.macetas}/>
+            <h3 className="ms-2 my-3">Tacitas <i className="bi bi-cup-fill"></i> </h3>
+                <Lista items={this.state.tazas}/>
+            <h3 className="ms-2 my-3">Platos <i className="bi bi-vinyl"></i> </h3>
+                <Lista items={this.state.platos}/>
             </section>
         );
     }

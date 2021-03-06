@@ -1,0 +1,61 @@
+/*Welcome*/
+
+img.welcome{
+    border-radius: 50%;
+    max-width: 300px;
+}
+
+
+
+/*Ceramica*/
+div.list-card .card{
+    position: relative;
+    overflow: hidden;
+}
+div.list-card .card .card-img-top{
+    transition: all .5s;
+}
+
+div.list-card .card .card-img-top{
+    max-width: 100%;
+    transition: all 0.3s;
+    display: block;
+    width: 100%;
+    height: auto;
+    transform: scale(1);
+}
+
+div.list-card .card:hover .card-img-top,
+div.list-card .card:focus .card-img-top{
+    transform: scale(1.2);
+}
+
+div.list-card .card .card-body{
+    background-color: #F5F5F5;
+    z-index: 1;
+}
+
+/*Detalle*/
+div.detalle .card-header{
+    background-color: #140C00;    
+}
+
+div.detalle .card-header i{
+    color: #F5F5F5;    
+    font-size: 4vw;
+    transition: 0.4s;
+}
+
+div.detalle .card{
+    transition: 0.4s;
+}
+
+div.detalle .card:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+div.detalle .card:hover i{
+    color: #2EC4B6;    
+}
+
+
