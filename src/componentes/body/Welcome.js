@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import collage from "../../assets/img/productos/collage1.jpeg"
+import collage from "../../assets/img/productos/nuevo/collage.png"
 
 class Welcome extends Component {
     render() {

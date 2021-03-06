@@ -9,10 +9,10 @@ class Footer extends Component {
                 <div className="col-lg-5 col-7">
                     <div className="d-flex flex-column d-grid gap-3 px-2 mb-5 ">
                         <a className="whatsappLink mobile" href="whatsapp://send?text=Hola! Deseo comprar un producto&phone=+5930958706562&abid=+5930958706562">
-                            <i className="bi bi-whatsapp"></i> +593 0958 706 562
+                            <i className="bi bi-whatsapp"></i> +593 958 706 562
                         </a>
                         <a className="whatsappLink desktop" href="http://web.whatsapp.com/send?text=Hola! Deseo comprar un producto&phone=+5930958706562&abid=+5930958706562">
-                            <i className="bi bi-whatsapp"></i> +593 0958 706 562
+                            <i className="bi bi-whatsapp"></i> +593 958 706 562
                         </a>
                         <a href="mailto:domenicarivadeneyra@gmail.com"><i className="bi bi-envelope"></i> Gmail</a>
                         <a href="https://instagram.com/domenicarivadeneyra.ceramica?igshid=1jjcy1ejfx0ri" className="text-wrap"><i className="bi bi-instagram"></i> @domenicarivadeneyra.ceramica</a>

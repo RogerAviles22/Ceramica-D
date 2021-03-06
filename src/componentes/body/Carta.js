@@ -1,22 +1,18 @@
-import React, { Component } from 'react';
-import cat  from '../../assets/img/productos/taza1.jpeg';
+import React from 'react'
 
-class Carta extends Component {
-    render() {
-        return (
-            <div className="card col-lg-4 col-sm-4 col-6">
-                <img className="card-img-top" src={cat} alt="name.jpg" />
-                <div class="card-body">
-                    <h5 class="card-title">Gatito Azul</h5>
-                    <p>Precio: $5.0</p>
-
-                </div>
-
-
+function Carta(props) {
+    return (
+        <div className="card col-lg-2 col-sm-4 col-6">
+            <img className="card-img-top" src={'nuevo/'+props.img} alt={props.img} />
+            <div className="card-body">
+                <h5 className="card-title">{props.title}</h5>
                 
             </div>
-        );
-    }
+            <div class="card-footer text-end">
+                <p>${props.precio}</p>
+            </div>
+        </div>
+    );
 }
 
 export default Carta;
