@@ -5,7 +5,6 @@ import App from './App';
 import Footer from './componentes/pie/Footer';
 import Body from './componentes/body/Body';
 
-import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
@@ -24,4 +23,3 @@ ReactDOM.render(
   document.getElementById('footer')
 );
 
-reportWebVitals();

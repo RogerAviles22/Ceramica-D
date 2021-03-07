@@ -5,7 +5,13 @@
 
 h1{
     font-family: Heart_Attack;
-    font-size: 5vw;
+    font-size: 5.3vw;
+}
+
+@media only screen and (max-width: 550px) {
+    h1{
+        font-size: 7vw;
+    }
 }
 
 .Inicio{

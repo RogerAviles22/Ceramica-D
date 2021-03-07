@@ -2,7 +2,13 @@
 
 img.welcome{
     border-radius: 50%;
-    max-width: 300px;
+    max-width: 275px;
+}
+
+@media only screen and (min-width: 550px) {
+    p.welcome-text{
+        font-size: 25px;
+    }
 }
 
 

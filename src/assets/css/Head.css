@@ -5,15 +5,16 @@ div.navegador a{
     transition: all .5s;
 }
 
+@media only screen and (max-width: 550px) {
+    div.navegador a{
+        font-size: 3.2vw;
+    }
+}
+
 div.navegador a:hover{
     color: #F5F5F5;
 }
 
 img.Logo{
-    max-width: 300px;
-}
-
-
-p{
-    font-size: 25px;
+    max-width: 275px;
 }
