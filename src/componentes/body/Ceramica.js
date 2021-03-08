@@ -23,13 +23,13 @@ class Ceramica extends Component {
             {
                 "id": 2,
                 "img": "flores.png",
-                "title": "Flores",
+                "title": "Taza Flores",
                 "precio": 6.50
             },
             {
                 "id": 1,
                 "img": "expresso.png",
-                "title": "Expresso",
+                "title": "Tacita Expresso",
                 "precio": 6.00
             }
         ], 
@@ -62,12 +62,12 @@ class Ceramica extends Component {
             },{
                 "id": 9,
                 "img": "minin.png",
-                "title": "Minis Nido",
+                "title": "Mini Nido",
                 "precio": 3.50
             },{
                 "id": 10,
                 "img": "kawaii.png",
-                "title": "Minis Kawaii",
+                "title": "Mini Kawaii",
                 "precio": 3.50
             }
         ],
