@@ -20,9 +20,9 @@ class Footer extends Component {
                 </div>
                 <div className="col-lg-3 col-sm-5 col-9 my-lg-2 mt-3">
                     <p><i className="bi bi-calendar"></i> Lunes - Sábado</p>
-                    <p><i className="bi bi-clock"></i> 10am - 21pm</p>
+                    <p><i className="bi bi-clock"></i> 9am - 18pm</p>
                 </div>
-                <p className="text-center m-0 py-4 final fw-bold">¡ Hecho con mucho cariño y amor ! ~ 2021</p>
+                <p className="text-center m-0 py-4 final fw-bold">¡ Hechos con mucho cariño y amor ! ~ 2021</p>
             </div>
         );
     }

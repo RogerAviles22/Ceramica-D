@@ -9,15 +9,9 @@ class Ceramica extends Component {
         this.state = {
           tazas:[   
             {
-                id: 0,
-                img: "gato.png",
-                title: "Gatito Personalizado",
-                precio: 10.00
-            },
-            {
                 "id": 3,
                 "img": "muneica.png",
-                "title": "Muñeca",
+                "title": "Taza de muñeca",
                 "precio": 7.00
             },
             {
@@ -39,7 +33,7 @@ class Ceramica extends Component {
                 "precio": 6.00
             }
         ], 
-        macetas:[
+        macetas:[            
             {
                 "id": 8,
                 "img": "castillo.png",
@@ -51,14 +45,19 @@ class Ceramica extends Component {
                 "title": "Muñeca",
                 "precio": 12.50
             },{
+                id: 0,
+                img: "gato.png",
+                title: "Gatito Personalizado",
+                precio: 10.00
+            },{
                 "id": 6,
                 "img": "rectangle.png",
-                "title": "Rectángulo #1",
+                "title": "Dado",
                 "precio": 7.50
             },{
                 "id": 7,
                 img: "rectangle2.png",
-                title: "Rectángulo #2",
+                title: "Montaña",
                 precio: 7.50
             },{
                 "id": 9,

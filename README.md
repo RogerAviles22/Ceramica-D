@@ -30,4 +30,5 @@ Para crear componentes, sus nombres deben empezar con MAY.
 - [Href WhatsApp](https://elcssar.com/html/enlace-href-whatsapp)
 - [Animated](https://animate.style/)
 - [Galeria Horizontal](https://medium.com/@rexosariemen/implementing-horizontal-scroll-buttons-in-react-61e0bb431be)
+- [Sticky Nav](https://www.cluemediator.com/animated-sticky-header-on-scroll-in-react)
 - [Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)

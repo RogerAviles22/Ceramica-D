@@ -46,7 +46,7 @@ class Detalle extends Component {
                                     <i className="bi bi-clock-fill card-img-top"></i>
                                 </div>
                                 <div className="card-body">
-                                    <p>Realiza tu pedido con 1 semana de anticipación.</p>
+                                    <p>Realiza tu pedido con 2 semanas de anticipación.</p>
                                 </div>
                             </div>
                         </div>

@@ -1,4 +1,27 @@
 /*Navegador*/
+.navegador {
+    overflow: hidden;
+    z-index: 2;
+    background-color: #fcda9c;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    transition: all 0.5s ease;
+    animation: smoothScroll 1s forwards;
+}
+
+@keyframes smoothScroll {
+    0% {
+        transform: translateY(-142px);
+    }
+
+    100% {
+        transform: translateY(0px);
+    }
+}
 
 div.navegador a{
     color: #140C00;
@@ -12,7 +35,11 @@ div.navegador a{
 }
 
 div.navegador a:hover{
-    color: #F5F5F5;
+    color: #31210a;
+}
+
+h1.title{
+    color: #140C00;
 }
 
 img.Logo{
